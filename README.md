@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">👋 Hey, I'm Vinícius<br><br>🏫 Systems Development Student at ETEC (1/3)<br>🎓 Future student at FATEC (ADS) via AMS Program<br>💻 Future Backend Java Developer<br>🚀 Currently focused on: Java | SQL | Logic<br>---<br>🧠 About me<br>- 15 years old, focused on becoming a high-level backend developer<br>- Studying every day to work internationally 🌍<br>- Passionate about technology and building real systems<br>---<br>⚙️ Tech I'm learning<br>- Java ☕<br>- SQL 🗄️<br>- Git & GitHub<br>- Programming Logic<br>---<br>📌 Goals<br>- Become fluent in English<br>- Get my first dev job early<br>- Reach international level (remote jobs 💸)<br>---<br>📊 GitHub Stats<br>(you can add later)<br>---<br>🎌 Fun fact<br>I like anime and use it as inspiration to stay disciplined ⚔️</h4>
+<h4 align="left">👋 Hey, I'm Vinícius<br><br>🏫 Systems Development Student at ETEC (1/3)<br>🎓 Future student at FATEC (ADS) via AMS Program<br>💻 Future Backend Java Developer<br>🚀 Currently focused on: Java | SQL | Logic<br>---<br>🧠 About me<br>- 15 years old, focused on becoming a high-level backend developer<br>- Studying every day to work internationally 🌍<br>- Passionate about technology and building real systems<br>---<br>⚙️ Tech I'm learning<br>- Java ☕<br>- SQL 🗄️<br>- Git & GitHub<br>- Programming Logic<br>- JavaScript<br>- TypeScript<br>---<br>📌 Current Progress<br>- Learning programming logic  <br>- Studying Java fundamentals <br>- Practicing daily problem solving  <br>---<br>⚡ Daily routine<br>- Coding every day<br>- Improving logic skills <br>- Building discipline <br>🎌 Fun fact<br>I like anime and use it as inspiration to stay disciplined ⚔️</h4>
 
 ###
 
