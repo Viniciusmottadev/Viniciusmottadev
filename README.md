@@ -39,8 +39,12 @@
   </a>
 </div>
 
+
+
 ###
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RyemNxbjRpYWJra20weWNheTZnZWJscXNzd3QxcXJsZXh5ZG50bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OanDYMxFbFYFO33M11/giphy.gif"  />
+
+![Snake animation](https://githubusercontent.com)
 
 ###
