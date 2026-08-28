@@ -1,49 +1,49 @@
-<div align="center">
-  <img height="380" src="https://www.image2url.com/r2/default/gifs/1777830450551-41887f7e-370f-48b5-b24a-1b84e8895366.gif"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm50aW5tbGszbnQ3YzlhYzJpMTluc2llbG11aWhld3J4Znltbmp4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4xKJUTzWPAVoY/giphy.gif"  />
 </div>
 
 ###
 
-<h4 align="left">👋 Hey, I'm Vinícius<br><br>🏫 Systems Development Student at ETEC (1/3)<br>🎓 Future student at FATEC (ADS) via AMS Program<br>💻 Future Backend Java Developer<br>🚀 Currently focused on: Java | SQL | Logic<br>---<br>🧠 About me<br>- 15 years old, focused on becoming a high-level backend developer<br>- Studying every day to work internationally 🌍<br>- Passionate about technology and building real systems<br>---<br>⚙️ Tech I'm learning<br>- Java ☕<br>- SQL 🗄️<br>- Git & GitHub<br>- Programming Logic<br>- JavaScript<br>- TypeScript<br>---<br>📌 Current Progress<br>- Learning programming logic  <br>- Studying Java fundamentals <br>- Practicing daily problem solving  <br>---<br>⚡ Daily routine<br>- Coding every day<br>- Improving logic skills <br>- Building discipline <br></h4>
+<h1 data-importer="text" align="left">Hi there, I'm Vinícius 👋</h1>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+<p data-importer="text" align="left">Cybersecurity Student & Aspiring Full-Stack Java Developer</p>
+
+###
+
+<h4 data-importer="text" align="left">I am an information security student and software developer focused on the intersection of robust backend systems and application security (AppSec / DevSecOps). Currently tracking through ETEC and the AMS Program for FATEC (ADS), building a strong foundation for international roles.</h4>
+
+###
+
+<p data-importer="text" align="left">Current Focus / What I'm Learning: <br>- Secure Coding: Implementing defensive programming principles in Java and Python (OWASP Top 10 awareness).<br>- Backend Robustness: Mastering object-oriented programming (OOP), data structures, and relational databases (SQL).<br>- Full-Stack Foundations: Connecting secure backend APIs with interactive frontend interfaces.<br>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>Profile / My Goals:<br>- Continuous Learning: Coding and problem-solving daily to build high-level, production-ready systems.<br>- Global Mindset: Studying and documenting architectures in English to target the global tech market.<br>- Discipline-Driven: Passionate about performance, clean code, and security architecture.<br><br>![Cybersecurity](https://shields.io)<br>![DevSecOps](https://shields.io)<br>![AppSec](https://shields.io)<br>![OWASP](https://shields.io)<br>![Kali Linux](https://shields.io)</p>
+
+###
+
+<h2 data-importer="text" align="left">I code with</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
 ###
 
-<div align="left">
-  <a href="https://www.youtube.com/@eu_sirem" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/eumotta.xsz?utm_source=qr&igsh=MXNwemttcHJ2NDFmcQ==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/Mr.sirem" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:vini9motta@gmail.com?subject=vini9motta@gmail.com&body=vini9motta@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-
-
-###
-
-![Snake](https://vercel.app)
-
+<img data-importer="snake" src="https://raw.githubusercontent.com/Viniciusmottadev /Viniciusmottadev /snake-output/snake.svg" alt="Snake animation" />
 
 ###
