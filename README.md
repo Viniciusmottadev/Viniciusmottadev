@@ -16,11 +16,11 @@
 
 ###
 
-<p data-importer="text" align="left">Current Focus / What I'm Learning: <br>- Secure Coding: Implementing defensive programming principles in Java and Python (OWASP Top 10 awareness).<br>- Backend Robustness: Mastering object-oriented programming (OOP), data structures, and relational databases (SQL).<br>- Full-Stack Foundations: Connecting secure backend APIs with interactive frontend interfaces.<br>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>Profile / My Goals:<br>- Continuous Learning: Coding and problem-solving daily to build high-level, production-ready systems.<br>- Global Mindset: Studying and documenting architectures in English to target the global tech market.<br>- Discipline-Driven: Passionate about performance, clean code, and security architecture.<br><br>
+<p data-importer="text" align="left">Current Focus / What I'm Learning: <br>- Secure Coding: Implementing defensive programming principles in Java and Python (OWASP Top 10 awareness).<br>- Backend Robustness: Mastering object-oriented programming (OOP), data structures, and relational databases (SQL).<br>- Full-Stack Foundations: Connecting secure backend APIs with interactive frontend interfaces.<br>----------------------------------------------------------------------------------------------------------------------------------------------------------------<br>Profile / My Goals:<br>- Continuous Learning: Coding and problem-solving daily to build high-level, production-ready systems.<br>- Global Mindset: Studying and documenting architectures in English to target the global tech market.<br>- Discipline-Driven: Passionate about performance, clean code, and security architecture.</p>
 
 ###
 
-<h2 data-importer="text" align="left">I code with</h2>
+<h2 data-importer="text" align="left">I use:</h2>
 
 ###
 
@@ -40,6 +40,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
 
 ###
