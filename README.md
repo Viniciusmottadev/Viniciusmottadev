@@ -16,7 +16,7 @@
 
 ###
 
-<p data-importer="text" align="center">What I Do / How I Can Help Your Business:<br>- High-Converting Websites: Creating modern, blazing-fast landing pages and institutional sites (like delivery platforms, portfolios, and corporate pages) optimized for user experience (UX/UI) and sales.<br>- Full-Stack Applications: Developing robust backend architectures integrated seamlessly with interactive, dynamic frontend interfaces.<br>- Global Communication: Fully fluent in English, ready to collaborate with international clients, teams, and agencies.</p>
+<p data-importer="text" align="left">What I Do / How I Can Help Your Business:<br>- High-Converting Websites: Creating modern, blazing-fast landing pages and institutional sites (like delivery platforms, portfolios, and corporate pages) optimized for user experience (UX/UI) and sales.<br>- Full-Stack Applications: Developing robust backend architectures integrated seamlessly with interactive, dynamic frontend interfaces.<br>- Global Communication: Fully fluent in English, ready to collaborate with international clients, teams, and agencies.</p>
 
 ###
 
